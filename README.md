@@ -7,7 +7,7 @@ link to video:https://drive.google.com/file/d/1fAlDuYGoOQ8fVwJm67zoUz_ob653fsAQ/
 ## Table of contents 
  - Description
  - Installation
- - Usage
+ - UsageS
  - Contributions
  - Tests
  - Questions
